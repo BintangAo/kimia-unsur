@@ -1,0 +1,14 @@
+---
+import Layout from "./layout.astro"
+import Sidebar from "$lib/components/ui/sidebar/Sidebar.svelte"
+import Navbar from "$lib/components/ui/navbar/Navbar.svelte"
+---
+
+<Layout>
+    <Navbar client:load/>
+    <div class="flex flex-row">
+        <Sidebar/>
+    <slot/>
+    </div>
+    
+</Layout>
