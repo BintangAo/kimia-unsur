@@ -13,7 +13,7 @@
             Kestabilan gas mulia juga dibantu oleh energi ionisasi yang besar (membuatnya sukar melepas elektron) dan afinitas elektron yang kecil (membuatnya kecil kecenderungan untuk menangkap elektron).</p>
         <img src={image.src} alt="Data fisis gas mulia">
         <small>Data fisis gas mulia</small>
-        <Quiz question="Apa yang tidak mempengaruhi kestabilan gas mulia?" answerArr={["Tingginya energi ionisasi.","Kecilnya afinitas elektron.","Panjangnya jari-jari atom","Elektron valensik yang sudah stabil."]} correctAnswer={"Panjangnya jari-jari atom"}/>
+        <Quiz question="Apa yang tidak mempengaruhi kestabilan gas mulia?" answerArr={["Tingginya energi ionisasi.","Kecilnya afinitas elektron.","Jari-jari atom yang panjang.","Elektron valensik yang sudah stabil."]} correctAnswer={"Panjangnya jari-jari atom"}/>
     </article>
 </main>
 
